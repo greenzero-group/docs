@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mint Starter Kit",
+  "theme": "palm",
+  "name": "GREENZERO Journey",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#699E3C",
+    "light": "#699E3C",
+    "dark": "#699E3C"
   },
   "favicon": "/favicon.svg",
   "navigation": {
