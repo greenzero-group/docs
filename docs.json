@@ -17,6 +17,13 @@
             "group": "Get Started",
             "pages": [
               "index",
+              {
+                "group": "Key Concepts",
+                "pages": [
+                  "key-concepts/pcf",
+                  "key-concepts/lca"
+                ]
+              },
               "quickstart",
               "development"
             ]

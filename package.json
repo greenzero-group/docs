@@ -1,0 +1,17 @@
+{
+  "name": "greenzero-journey-docs",
+  "version": "1.0.0",
+  "description": "Documentation for GREENZERO Journey",
+  "main": "index.js",
+  "repository": "https://github.com/greenzero-group/docs.git",
+  "author": "GREENZERO Group",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "mint dev",
+    "build": "mint build"
+  },
+  "devDependencies": {
+    "mint": "^4.1.62"
+  }
+}
